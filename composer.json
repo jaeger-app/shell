@@ -3,7 +3,7 @@
   "description" : "A simple shell abstraction.",
   "require" : {
     "php" : ">=5.4.0",
-    "mikehaertl/php-shellcommand": "dev-master"
+    "mikehaertl/php-shellcommand": "1.2.*"
   },
   "require-dev" : {
     "phpunit/phpunit" : "4.*"

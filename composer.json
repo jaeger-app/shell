@@ -1,0 +1,21 @@
+{
+  "name" : "jaeger-app/shell",
+  "description" : "A simple shell abstraction.",
+  "require" : {
+    "php" : ">=5.4.0",
+    "mikehaertl/php-shellcommand": "dev-master"
+  },
+  "require-dev" : {
+    "phpunit/phpunit" : "4.*"
+  },
+  "authors" : [ {
+    "name" : "Eric Lamb",
+    "email" : "eric@mithra62.com"
+  } ],
+  "autoload" : {
+    "psr-4" : {
+      "JaegerApp\\" : "src/"
+    }
+  },
+  "license" : "MIT"
+}

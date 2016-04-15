@@ -25,8 +25,8 @@ class ShellTest extends \PHPUnit_Framework_TestCase
 
     public function testProperties()
     {
-        $this->assertClassHasAttribute('cmd', '\Jaeger\Shell');
-        $this->assertClassHasAttribute('command', '\Jaeger\Shell');
+        $this->assertClassHasAttribute('cmd', '\JaegerApp\Shell');
+        $this->assertClassHasAttribute('command', '\JaegerApp\Shell');
         
         $shell = new Shell();
         $this->assertObjectHasAttribute('cmd', $shell);

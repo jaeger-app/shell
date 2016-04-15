@@ -1,18 +1,19 @@
 <?php
 /**
- * mithra62
+ * Jaeger
  *
- * @copyright	Copyright (c) 2015, mithra62, Eric Lamb.
- * @link		http://mithra62.com/
+ * @author		Eric Lamb <eric@mithra62.com>
+ * @copyright	Copyright (c) 2015-2016, mithra62, Eric Lamb
+ * @link		http://jaeger-app.com
  * @version		1.0
- * @filesource 	./mithra62/Shell.php
+ * @filesource 	./Shell.php
  */
-namespace mithra62;
+namespace JaegerApp;
 
 use mikehaertl\shellcommand\Command;
 
 /**
- * mithra62 - Shell Object
+ * Jaeger - Shell Object
  *
  * Wrapper for a simple command line interface
  *

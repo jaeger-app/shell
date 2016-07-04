@@ -1,6 +1,6 @@
 {
 	"name": "jaeger-app/shell",
-	"description": "A simple shell abstraction.",
+	"description": "A simple shell library to execute commands on the Console. ",
 	"require": {
 		"php": ">=5.4.0",
 		"mikehaertl/php-shellcommand": "1.2.*"

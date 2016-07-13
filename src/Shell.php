@@ -51,7 +51,7 @@ class Shell
     }
 
     /**
-     * Executes the comman
+     * Executes the command
      * 
      * @return boolean
      */

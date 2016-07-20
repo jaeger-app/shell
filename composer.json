@@ -3,7 +3,7 @@
 	"description": "A simple shell library to execute commands on the Console. ",
 	"require": {
 		"php": ">=5.4.0",
-		"mikehaertl/php-shellcommand": "1.2.*"
+		"mikehaertl/php-shellcommand": "1.1.*"
 	},
 	"require-dev": {
 		"phpunit/phpunit": "4.*"
